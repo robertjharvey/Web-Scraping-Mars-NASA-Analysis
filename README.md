@@ -1,12 +1,4 @@
-# web-scraping-challenge: Mission to Mars
-
-## Background
-In this assignment, the ask was to build a web application that scrapes various websites for data related to the Mission to Mars and display the information in a single HTML page. The following outlines the steps taken:
-
-**Step 1: Scraping**
-
-**Step 2: MongoDB and Flask Application**
-
+# Mission to Mars - Web Scraping Analysis
 
 ## Step 1: Scraping
 
